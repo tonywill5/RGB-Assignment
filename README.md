@@ -22,10 +22,8 @@ Goal: Create a simple SchNet model to predict protein properties
 &nbsp; &nbsp; &nbsp; &nbsp;a.)use Adam optimizer and MSE loss function for 50 epochs with a learing rate of 0.001 
 
 7.) In main function call to all necessary functions and classes 
-
  <br />
  <br />
- 
 ## Notes: 
 * all code was written on VScode
 * Data folder and labels file was stored locally on computer
