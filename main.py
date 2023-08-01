@@ -152,7 +152,6 @@ def train_schnet_model(train_loader, val_loader, model, num_epochs=50, lr=0.001)
 
         print(f"Epoch {epoch + 1}/{num_epochs}, Train Loss: {avg_train_loss:.4f}, Val Loss: {avg_val_loss:.4f}")
 
-# Rest of the code remains the same...
 # Step 5: Main function
 def main():
     pdb_folder = "data"
@@ -167,8 +166,6 @@ def main():
         amino_acids_set.update(amino_acids_indices.tolist())
 
     num_amino_acids = len(amino_acids_set)
-    #print("Number of unique amino acid types:", num_amino_acids)
-    #num_amino_acids = len(dataset[0].x[0])
     hidden_channels = 64
 
     train_loader, val_loader = get_data_loaders(dataset)
