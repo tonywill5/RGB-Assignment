@@ -28,4 +28,4 @@ This class defines the overall SchNet model. It takes the number of unique amino
 This function trains the model and tests it on the validation set. It prints the epoch number, training loss and validation.
 
 ### def main():
-Calls on necessary functions to load the data, create the SchNet model, train and run the model.
+Calls on necessary functions to load the data, create the SchNet model, train and run the model. 
