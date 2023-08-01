@@ -17,7 +17,10 @@ Process: \
 7.) In main function call to all necessary functions and classes 
 
 Notes: \
+asdfasd 
 
 Issues: \
+asdfasdf
 
 Possible changes: \
+asdfasdf
