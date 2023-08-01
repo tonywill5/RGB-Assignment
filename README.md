@@ -22,7 +22,7 @@ Process: \
 
  &nbsp; &nbsp; &nbsp; &nbsp;7.) In main function call to all necessary functions and classes 
 
-Notes: \
+Notes: 
 * Unable to train the model as it was crashing my computter
 * all code was written on VScode
 * Data folder and labels file was stored locally on computer
