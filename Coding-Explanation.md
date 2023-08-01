@@ -1,4 +1,5 @@
 # Main coding file breakdown by function
+This file will break down the code found in main.py and explain generally the purpose of each function.
 
 ### def load_labels_csv(csv_file):
 This function takes .csv file as input and extracts the protein_id's in one column & the associated value in the other. It then returns the two as lists.
