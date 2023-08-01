@@ -35,7 +35,7 @@ Goal: Create a simple SchNet model to predict protein properties
 
  <br />
  
-#Possible changes: \
+#Possible changes: 
 * different loss function
 * different optimizing function
 * adjust number of epochs
