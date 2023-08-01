@@ -26,7 +26,7 @@ Process: \
  <br />
  <br />
  
-Notes: \
+Notes: 
 * all code was written on VScode
 * Data folder and labels file was stored locally on computer
 
