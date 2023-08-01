@@ -1,7 +1,7 @@
 # RGB-Assignment
 Goal: Create a simple SchNet model to predict protein properties 
  <br />
-  <br />
+ <br />
 Process: \
 &nbsp; &nbsp; &nbsp; &nbsp;1.) Download all necessary packages which included: pytorch, pytorch geometric, BioPython, vscode, and the data 
 
@@ -26,14 +26,13 @@ Process: \
  <br />
  <br />
 Notes: 
-* Unable to train the model as it was crashing my computter
 * all code was written on VScode
 * Data folder and labels file was stored locally on computer
 
  <br />
  
-Issues: \
-asdfasdf
+Issues: 
+* Unable to train the model as it was crashing my computter
 
  <br />
  
