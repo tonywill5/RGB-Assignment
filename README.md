@@ -27,6 +27,7 @@ Goal: Create a simple SchNet model to predict protein properties
 ## Notes: 
 * All code was written on VScode
 * Data folder and labels file were stored locally on computer
+* Coding-Explanation includes written descriptions of each function
 
  <br />
  
