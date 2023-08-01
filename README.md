@@ -15,3 +15,9 @@ Process: \
 6.) Create a function for training the model \
 &nbsp; &nbsp; &nbsp; &nbsp;a.)use Adam optimizer and MSE loss function for 50 epochs with a learing rate of 0.001 \
 7.) In main function call to all necessary functions and classes 
+
+Notes: \
+
+Issues: \
+
+Possible changes: \
